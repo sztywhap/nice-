@@ -1,0 +1,28 @@
+---
+title: "STAT 345 Lab Seven"
+author: "Colin Kalsbeek"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Git and GitHub
+
+1. Follow the instructions in the notes on installing/setting up Git and GitHub.
+2. Create a simple R file (script, .rmd, etc.) and add some code to it (any code will do!).
+
+```{r}
+nice = 69
+```
+
+3. Commit your file, then Push it to GitHub. Visit your GitHub repository online to verify that your code pushed correctly.
+4. Edit your code. You can change the code or add new lines. Commit and push again.
+5. Submit the link to your repository on Canvas.
+6. Have a great break!
+
